@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CebotariRazvan-Ionut.props" />
+</Project>
